@@ -48,8 +48,6 @@ Algorithms Used:
 
 Logistic Regression
 
-Decision Trees
-
 Random Forest
 
 Gradient Boosting (e.g., XGBoost, LightGBM)
